@@ -36,13 +36,14 @@ Bonne chance et amusez-vous bien! &#x1F605;
 ou soit 
 
 -un editeur de test __vscode__ vous pouvez télecharger par ici 
-```code
-    https://code.visualstudio.com/download
- ```
+<button><a href="https://code.visualstudio.com/download" targer="_blank">vscode</a></button>
+
  &&
  Node.js®  un environnement d'exécution JavaScript 
- ```code
-    https://nodejs.org/en
- ```
+ <!-- ```code -->
+    
+ <!-- ``` -->
+ <button><a href="https://nodejs.org/en">nodeJs</a></button>
 
- si vous rencontrez des difficultés avec l'installation de __vscode__ et  __nodeJs__ vous pouvez consulter cet exemple d'installation <a href="https://learn.microsoft.com/fr-fr/shows/beginners-series-to-nodejs/how-to-setup-vs-code-for-nodejs-development-5-of-26"  target=_blank>ici</a>
+ si vous rencontrez des difficultés avec l'installation de __vscode__ et  __nodeJs__ vous pouvez consulter cet exemple d'installation <button> <a href="https://learn.microsoft.com/fr-fr/shows/beginners-series-to-nodejs/how-to-setup-vs-code-for-nodejs-development-5-of-26"  target=_blank>ici</a></button>
+
