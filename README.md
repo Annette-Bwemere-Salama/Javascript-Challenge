@@ -25,8 +25,26 @@ Nous vous encourageons à essayer de résoudre chaque défi par vous-même avant
 
 Bonne chance et amusez-vous bien! &#x1F605;
 
-
-
-
 ### M ODE D ’ EMPLOI
-    
+
+- DE QUOI AVEZ - VOUS BESOIN ?
+
+- Uniquement d’un navigateur (Firefox ou Chrome de préférence).
+
+- Lancez par exemple Firefox puis touche F12.
+
+ou soit 
+
+-un editeur de test __vscode__ vous pouvez télecharger par ici 
+```code
+    https://code.visualstudio.com/download
+ ```
+ &&
+ Node.js®  un environnement d'exécution JavaScript 
+ ```code
+    https://nodejs.org/en
+ ```
+
+ si vous rencontrez des difficultés avec l'installation de __vscode__ et  __nodeJs__ vous pouvez consulter cet exemple d'installation
+
+ <a href="https://learn.microsoft.com/fr-fr/shows/beginners-series-to-nodejs/how-to-setup-vs-code-for-nodejs-development-5-of-26"  target=_blank>ici</a>
